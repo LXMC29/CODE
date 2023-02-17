@@ -1,0 +1,15 @@
+E:\KỲ 4\SOF205\Test3Lop\B_BUS\bin\Debug\net7.0\B_BUS.deps.json
+E:\KỲ 4\SOF205\Test3Lop\B_BUS\bin\Debug\net7.0\B_BUS.dll
+E:\KỲ 4\SOF205\Test3Lop\B_BUS\bin\Debug\net7.0\B_BUS.pdb
+E:\KỲ 4\SOF205\Test3Lop\B_BUS\bin\Debug\net7.0\A_DAL.dll
+E:\KỲ 4\SOF205\Test3Lop\B_BUS\bin\Debug\net7.0\A_DAL.pdb
+E:\KỲ 4\SOF205\Test3Lop\B_BUS\obj\Debug\net7.0\B_BUS.csproj.AssemblyReference.cache
+E:\KỲ 4\SOF205\Test3Lop\B_BUS\obj\Debug\net7.0\B_BUS.GeneratedMSBuildEditorConfig.editorconfig
+E:\KỲ 4\SOF205\Test3Lop\B_BUS\obj\Debug\net7.0\B_BUS.AssemblyInfoInputs.cache
+E:\KỲ 4\SOF205\Test3Lop\B_BUS\obj\Debug\net7.0\B_BUS.AssemblyInfo.cs
+E:\KỲ 4\SOF205\Test3Lop\B_BUS\obj\Debug\net7.0\B_BUS.csproj.CoreCompileInputs.cache
+E:\KỲ 4\SOF205\Test3Lop\B_BUS\obj\Debug\net7.0\B_BUS.csproj.CopyComplete
+E:\KỲ 4\SOF205\Test3Lop\B_BUS\obj\Debug\net7.0\B_BUS.dll
+E:\KỲ 4\SOF205\Test3Lop\B_BUS\obj\Debug\net7.0\refint\B_BUS.dll
+E:\KỲ 4\SOF205\Test3Lop\B_BUS\obj\Debug\net7.0\B_BUS.pdb
+E:\KỲ 4\SOF205\Test3Lop\B_BUS\obj\Debug\net7.0\ref\B_BUS.dll
