@@ -10,17 +10,16 @@ using System.Threading.Tasks;
 
 namespace B_BUS.Services
 {
-    public class SanPhamServices : ISanPhamServices
+    public class ChiTietSPServices : IChiTietSPServices
     {
-        ISanPhamRepositories repositories;
-        public SanPhamServices()
+        IChiTietSPRepositories repositories;
+        public ChiTietSPServices()
         {
-            repositories = new SanPhamRepositories();
+            repositories= new ChiTietSPRepositories();
         }
-
-        public List<SanPham> GetAll()
+        public List<ChiTietSp> GetAll()
         {
-            List<SanPham> lstPham = new List<SanPham>();
+            List<ChiTietSp> lstPham = new List<ChiTietSp>();
             //Viết 1 câu LINQ để gán giá trị cho từng prop của SPView
             lstPham =
                 (from x in repositories.GetAll()
@@ -30,27 +29,27 @@ namespace B_BUS.Services
             return lstPham;
         }
 
-        public string SuaSanPham(Guid Id, SanPham sanPham)
+        public string SuaChiTietSanPham(Guid Id, ChiTietSp chiTietSp)
         {
-            if (repositories.SuaSanPham(sanPham, Id))
+            if (repositories.SuaChiTietSanPham(chiTietSp, Id))
             {
                 return "Sửa thành công";
             }
             else return "Thất Bại";
         }
 
-        public string ThemSanPham(SanPham sanPham)
+        public string ThemChiTietSanPham(ChiTietSp chiTietSp)
         {
-            if (repositories.ThemSanPham(sanPham))
+            if (repositories.ThemChiTietPham(chiTietSp))
             {
                 return "Thêm thành công";
             }
             else return "Thất Bại";
         }
 
-        public string XoaSanPham(Guid Id)
+        public string XoaChiTietSanPham(Guid Id, ChiTietSp chiTietSp)
         {
-            if (repositories.XoaSanPham(Id))
+            if (repositories.XoaChiTietSanPham(chiTietSp, Id))
             {
                 return "Xóa thành công";
             }

@@ -1,6 +1,6 @@
 ﻿namespace C_GUI
 {
-    partial class Form1
+    partial class FrmSanPham
     {
         /// <summary>
         ///  Required designer variable.
@@ -50,6 +50,7 @@
             this.DgvSanPham.RowTemplate.Height = 29;
             this.DgvSanPham.Size = new System.Drawing.Size(382, 188);
             this.DgvSanPham.TabIndex = 0;
+            this.DgvSanPham.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DgvSanPham_CellClick);
             // 
             // txtMa
             // 
@@ -118,6 +119,7 @@
             this.btnSua.TabIndex = 7;
             this.btnSua.Text = "Sửa";
             this.btnSua.UseVisualStyleBackColor = true;
+            this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
             // 
             // btnXoa
             // 
@@ -129,7 +131,7 @@
             this.btnXoa.UseVisualStyleBackColor = true;
             this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
             // 
-            // Form1
+            // FrmSanPham
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -143,7 +145,7 @@
             this.Controls.Add(this.txtTen);
             this.Controls.Add(this.txtMa);
             this.Controls.Add(this.DgvSanPham);
-            this.Name = "Form1";
+            this.Name = "FrmSanPham";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.DgvSanPham)).EndInit();

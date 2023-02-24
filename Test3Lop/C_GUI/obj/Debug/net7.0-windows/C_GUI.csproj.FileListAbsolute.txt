@@ -44,7 +44,6 @@ E:\KỲ 4\SOF205\Test3Lop\C_GUI\bin\Debug\net7.0-windows\B_BUS.dll
 E:\KỲ 4\SOF205\Test3Lop\C_GUI\bin\Debug\net7.0-windows\B_BUS.pdb
 E:\KỲ 4\SOF205\Test3Lop\C_GUI\bin\Debug\net7.0-windows\A_DAL.pdb
 E:\KỲ 4\SOF205\Test3Lop\C_GUI\obj\Debug\net7.0-windows\C_GUI.csproj.AssemblyReference.cache
-E:\KỲ 4\SOF205\Test3Lop\C_GUI\obj\Debug\net7.0-windows\C_GUI.Form1.resources
 E:\KỲ 4\SOF205\Test3Lop\C_GUI\obj\Debug\net7.0-windows\C_GUI.csproj.GenerateResource.cache
 E:\KỲ 4\SOF205\Test3Lop\C_GUI\obj\Debug\net7.0-windows\C_GUI.GeneratedMSBuildEditorConfig.editorconfig
 E:\KỲ 4\SOF205\Test3Lop\C_GUI\obj\Debug\net7.0-windows\C_GUI.AssemblyInfoInputs.cache
@@ -56,3 +55,5 @@ E:\KỲ 4\SOF205\Test3Lop\C_GUI\obj\Debug\net7.0-windows\refint\C_GUI.dll
 E:\KỲ 4\SOF205\Test3Lop\C_GUI\obj\Debug\net7.0-windows\C_GUI.pdb
 E:\KỲ 4\SOF205\Test3Lop\C_GUI\obj\Debug\net7.0-windows\C_GUI.genruntimeconfig.cache
 E:\KỲ 4\SOF205\Test3Lop\C_GUI\obj\Debug\net7.0-windows\ref\C_GUI.dll
+E:\KỲ 4\SOF205\Test3Lop\C_GUI\obj\Debug\net7.0-windows\C_GUI.FrmSanPham.resources
+E:\KỲ 4\SOF205\Test3Lop\C_GUI\obj\Debug\net7.0-windows\C_GUI.Views.FrmChiTietSP.resources
